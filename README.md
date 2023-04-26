@@ -1,5 +1,4 @@
-### Hi there 👋
-https://raw.githubusercontent.com/pancudaniel7/pancudaniel7/main/img/header.jpg
+![header](https://user-images.githubusercontent.com/31310899/234543165-21fce426-fe4d-4301-920e-9ab2ff76f4fd.jpg)
 
 <!--
 **AlexandruIliescu/AlexandruIliescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
